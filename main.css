@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+body {
+    font-family: sans-serif;
+    background-color: whitesmoke;
+    font-size: 2.5rem;
+    letter-spacing: 0.1rem;
+
+}
+
+main {
+    text-align: center;
+    width: 100%;
+    padding: 80px 20px 80px 20px;
+}
+
+img {
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    
+}
+
+
+
+.btn {
+    background-color: purple;
+    border-radius: 20px;
+    border: 1px solid purple;
+    font-size: 2rem;
+    padding: 10px 20px 10px 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-link {
+    color: whitesmoke;
+    
+}
+
+.profile_statement, .email {
+    color: rgb(27, 27, 27)
+}
+
+.email {
+    font-size: 2rem;
+
+}
+
+
+.profile_btn, .profile_name, .profile_details {
+    margin: 50px 0 50px 0 ;
+}
+
